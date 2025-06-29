@@ -36,3 +36,14 @@ Wireframes help you to
 This has become the industry standard for many design teams because of its powerful collaboration features and browser-based
 accessibility. It offers excellent wirframing capabilities alongside high-fidelity design tools. The real-time collaboration 
 and commenting features makes it particularly valuable for remote teams.
+## Benefits of Wireframing
++ Wireframing acts as a bridge between conceptual ideas and functional applications.
++ Early problem identification.
++ Enhanced communication.
++ Faster development.
++ Scope and feature clarity.
++ User experience validation.
++ Cost and time savings.
++ Stakeholder buy-in and approval.
++ Quality assurance preparations.
++ Documentation and knowledge.
