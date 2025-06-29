@@ -25,3 +25,14 @@ Wireframes help you to
   placeholder text. These rough sketches focus purely on layout and content structure without visual styling details.
 + High-fidelity wireframes contain detailed layouts with precise measurements, actual content and sometimes basic
   interactions.
+## Wireframing Tools
++ Figma
++ Sketch
++ Miro
++ Adobe XD
++ InVision
++ Pen and Paper.
+### Figma
+This has become the industry standard for many design teams because of its powerful collaboration features and browser-based
+accessibility. It offers excellent wirframing capabilities alongside high-fidelity design tools. The real-time collaboration 
+and commenting features makes it particularly valuable for remote teams.
